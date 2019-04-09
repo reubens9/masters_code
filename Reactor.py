@@ -3,10 +3,6 @@
 
 import numpy as np
 
-
-def say_my_name(name1):
-    return 'Hello ' + name1
-
 def math_test(a,b,c):
     # a = X[0]
     # b = X[1]
